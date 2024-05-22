@@ -1,2 +1,2 @@
-# Analyzing_Football_Data
-Using R and SQL for Analysis and Visualization
+# Analyzing Football Data: Using R and SQL for Analysis and Visualization
+In this exercise, I had to work with football data using R programming language. I used various techniques in order to connect with an SQLite database and also to  manipulate data and visualize insights using packages like dplyr and ggplot2. Through this exercise, I gained experience in understanding data structures and interpreting and analyzing football-related datasets.
